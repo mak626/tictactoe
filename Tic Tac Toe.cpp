@@ -1,14 +1,8 @@
     /*
 
         TIC TAC TOE GAME
-
-        DEVELOPED BY            ROLL NO
-        M.ASWIN KISHORE         11113
-        ANSAF NIYAZ             11112
-        LEKSMI PRIYA            11121
-
-        CLASS:XI A
-
+        DEVELOPED BY MAK
+        
         IDE:CODE BLOCKS 16.01
         COMPILER:GNU GCC
 
